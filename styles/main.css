@@ -9,6 +9,11 @@
    max-width: 64rem;
  }
 
+ .container.narrow {
+     max-width: 56rem;
+ }
+
+
  /* Medium and small screens (640px) */
   @media (min-width: 640px) {
     /* Style information will go here */
@@ -69,7 +74,6 @@ html {
 }
 
 .links-container .navbar-link {
-  background-color: black;
   display: table-cell;;
   position: relative;
   height: 100%;
@@ -96,7 +100,6 @@ html {
    background-color: black;
 
 }
-
 .clearfix::before,
 .clearfix::after {
    content: " ";
