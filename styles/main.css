@@ -69,6 +69,7 @@ html {
 }
 
 .links-container .navbar-link {
+  background-color: black;
   display: table-cell;;
   position: relative;
   height: 100%;
@@ -90,6 +91,9 @@ html {
  .links-container .navbar-link:hover {
      color: orange;
  }
+
+ .links-container .navbar-link:active {
+   background-color: black;
 
 }
 
