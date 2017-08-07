@@ -50,12 +50,17 @@ body.landing {
    }
 
    .point .point-title {
-     font-size: 1.25rem;
+     font-size: 1rem;
    }
 
    .ion-music-note,
    .ion-radio-waves,
    .ion-iphone {
-     color: rgb(223,50,117);
+     color: orange;
      font-size: 5rem;
+   }
+
+   .point-description {
+     color: grey;
+     font-family: serif;
    }
