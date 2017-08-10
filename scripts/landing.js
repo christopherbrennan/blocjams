@@ -28,4 +28,4 @@ var animatePoints = function(points) {
              animatePoints(pointsArray);
          }
      });
-     }
+   }
